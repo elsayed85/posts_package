@@ -1,12 +1,12 @@
 <?php
 
-namespace Spatie\Skeleton\Commands;
+namespace Elsayed85\PostsPackage\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class PostsPackageCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'posts_package';
 
     public $description = 'My command';
 

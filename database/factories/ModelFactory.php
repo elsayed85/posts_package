@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Database\Factories;
+namespace Elsayed85\PostsPackage\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 
