@@ -2,9 +2,9 @@
 
 namespace Elsayed85\PostsPackage\Tests;
 
+use Elsayed85\PostsPackage\PostsPackageServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Elsayed85\PostsPackage\PostsPackageServiceProvider;
 
 class TestCase extends Orchestra
 {

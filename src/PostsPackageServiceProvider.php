@@ -2,9 +2,9 @@
 
 namespace Elsayed85\PostsPackage;
 
+use Elsayed85\PostsPackage\Commands\PostsPackageCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Elsayed85\PostsPackage\Commands\PostsPackageCommand;
 
 class PostsPackageServiceProvider extends PackageServiceProvider
 {
